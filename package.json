@@ -1,6 +1,6 @@
 {
   "name": "llm-for-whatsapp",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "WhatsApp auto responder with LLM integration. It support OpenAI API and also local LLMs",
   "main": "src/index.ts",
   "scripts": {
